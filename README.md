@@ -1,5 +1,7 @@
 # Tabtosearch
 
+[Download](https://addons.mozilla.org/en-US/firefox/addon/tabtosearch)
+
 This is a simple addon for Firefox which tries to imitate the "tab to search" feature in Chrome.
 
 ![Chrome tab to search](https://github.com/gjulianm/tabtosearch/raw/master/img/ChromeTabToSearch.png "Chrome tab to search in URL bar.")
